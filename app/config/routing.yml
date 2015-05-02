@@ -1,3 +1,7 @@
+binss_vitrine:
+    resource: "@BinssVitrineBundle/Controller"
+    type:    annotation
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation
